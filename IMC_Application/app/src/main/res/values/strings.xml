@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMC_Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Calcular el indice de masa corporal</string>
+    <string name="peso">Digite su peso</string>
+    <string name="altura">Digite su estatura en cm</string>
+</resources>
