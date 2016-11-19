@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">conversor_unidades</string>
+    <string name="calcular">Calcular</string>
+    <string name="conversor_distancia">Conversor de distancia</string>
+    <string name="conversor_temperatura">Conversor de temperatura</string>
+    <string name="farenheit">Farenheit</string>
+    <string name="Kelvin">Kelvin</string>
+    <string name="centigrados">Centigrados</string>
+</resources>
